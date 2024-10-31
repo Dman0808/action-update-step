@@ -2,9 +2,9 @@
 
 Action step: Update the course repository when the learner completes a step.
 
-_This is not a course._ Visit https://github.com/skills to view our courses.
+_This is not a course._ Visit [GitHub Skills](https://github.com/skills) to view our courses.
 
-### Example use
+## Example use
 
 ```yml
 name: Step 0, Welcome
@@ -30,4 +30,4 @@ jobs:
           base_branch_name: my-base-branch # Optional
 ```
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2024 GitHub &bull; [MIT License](https://gh.io/mit)
